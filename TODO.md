@@ -2,6 +2,15 @@
 
 This document outlines the tasks and features for building an advanced MERN stack application similar to Splitwise.
 
+## Core Differentiators (Vs Original Splitwise)
+| Feature | Splitwise (Standard) | Our Advanced Version |
+| :--- | :--- | :--- |
+| **Analytics** | Basic charts (Pro only) | **Full Dashboard** (Spending habits, category breakdown) for everyone |
+| **Notifications** | Standard push/email | **Custom Email Triggers**: Custom reminders, monthly summaries, "Nudge" emails |
+| **Currency** | Manual/Pro conversion | **Real-time API Integration** for multi-currency groups |
+| **Receipts** | OCR Scanning (Pro) | **Integrated OCR** (Tesseract.js) for auto-scanning receipts |
+| **Experience** | Functional | **Gamified**: Badges for "Fast Settler", "Top Spender"; Integrated Group Chat |
+
 ## Phase 1: Project Setup & Configuration
 - [ ] **Repository Initialization**
     - [ ] Initialize Git repository
